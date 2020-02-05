@@ -19,4 +19,6 @@ https://codepen.io/jeremythemodernist/pen/zYxLzQo
 
 https://github.com/filamentgroup/snapper/blob/master/demo/breakpoints.html
 
+https://www.tailwindtoolbox.com/components/fullscreen-modal
+
 
