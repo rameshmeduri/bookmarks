@@ -29,4 +29,14 @@ https://codesandbox.io/s/rljy7
 
 https://t.me/s/opensource_findings
 
-https://estelle.github.io/
+https://estelle.github.io
+
+https://github.com/nonsponsored/rotator/blob/master/build/css/rotator.min.css
+
+
+
+
+
+
+
+
