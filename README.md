@@ -33,9 +33,9 @@ https://estelle.github.io
 
 https://github.com/nonsponsored/rotator/blob/master/build/css/rotator.min.css
 
+https://github.com/john-azzaro/Study-Crossfade-Transitions/blob/master/index.css
 
-
-
+https://codepen.io/dudleystorey/pen/qEoKzZ?__cf_chl_jschl_tk__=464a8209824ad04c1bd4264bc3159415b86c1f04-1582563428-0-AbVywigvrkGr9HUJz619c_g_qFqHFoZxPrbnqLXEd_THerjBk1-5vSAbmWvQLBdtCsfHGewz6Vp_B7K5nUW5PIW5gqKh_aqFLq8B76YWEGS-gPuN38sYPuqjr1z0UymAgKvMuWYCHDXCp0vbfZzMP-bWHrLcJfuxIGRFttIkHfv_wElYtq9plzGxWaSPrdTRfYThi3tJtPWYMaeqsZpEzTm1YKftkB_VcPcKhLZk31QH6Quv8oUmkbidguhCxEN8B6MOajer0hNkin03RgKuftIaOI4FkDIbOMs3dS_iTEhVTF9p9vrEMLt7RvhOycm8pWgYVUK_GnKdZ9BWuv9pKCnXQ0SUfUmdcfNO7barmJQv
 
 
 
