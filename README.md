@@ -1,3 +1,5 @@
+https://kentcdodds.com/blog/fix-the-not-wrapped-in-act-warning
+
 http://rickandmortyapi.com/graphql
 
 https://github.com/FrontendMasters/fullstack-graphql/tree/solution
