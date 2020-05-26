@@ -1,3 +1,5 @@
+https://kentcdodds.com/blog/common-mistakes-with-react-testing-library
+
 https://github.com/react-spring/zustand
 
 https://kentcdodds.com/blog/fix-the-not-wrapped-in-act-warning
