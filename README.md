@@ -1,6 +1,4 @@
-https://t.co/sEmlAosnYZ?amp=1
-
-https://t.co/FZine6erlp?amp=1
+https://github.com/Worldpay/worldpay-cse-3ds2-javascript
 
 https://kentcdodds.com/blog/common-mistakes-with-react-testing-library
 
